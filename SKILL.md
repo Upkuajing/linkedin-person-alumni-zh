@@ -1,5 +1,5 @@
 ---
-name: linkedin-person-alumni
+name: linkedin-person-alumni-zh
 description: 从LinkedIn数据中查询校友列表（alumni list），获取人员ID和学校ID等校友信息，支持游标分页。
 metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🎓","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
