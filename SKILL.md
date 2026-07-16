@@ -1,7 +1,7 @@
 ---
 name: linkedin-person-alumni-zh
 description: 依托 LinkedIn 数据，结合人员与企业信息调取校友及离职前员工清单，挖掘彼此共同求学背景和过往任职关联，发掘潜在商务合作机会。
-metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🎓","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.4","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🎓","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # 领英校友查询
